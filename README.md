@@ -1,6 +1,6 @@
 # Prosper Loan Analysis
 ## Introduction
-The aim of this projeect was to extensively explore variables that can serve as stronng predictors for determining good and bad loans
+The aim of this projeect was to extensively explore variables that can serve as strong predictors for determining good and bad loans.
 
 ## Dataset
 The dataset consists of 113937 records of Proper loans generated between the year 2005 - 2014. The dataset consists of information regarding each loan's listing and closing date, interest rate, loan original amount, prosper rating, loan status and several other variables. The dataset can be found [here](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv).
